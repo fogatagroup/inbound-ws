@@ -14,5 +14,5 @@ app.post('/webhooks/inbound-message', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log('Our app is running on port ${ PORT }');
+    console.log('Our app is running on port '+PORT);
 });
