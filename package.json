@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node inbound-message.js"
+    "test": "node inbound-message.js",
+    "start": "node inbound-message.js"
   },
   "repository": {
     "type": "git",
