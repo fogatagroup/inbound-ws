@@ -1,7 +1,11 @@
+
 {
   "name": "aldeamo",
   "version": "1.0.0",
   "description": "WhatsApp Inbound",
+  "engines": {
+    "node": "10.15.2"
+  },
   "main": "inbound-message.js",
   "dependencies": {
     "body-parser": "^1.19.0",
